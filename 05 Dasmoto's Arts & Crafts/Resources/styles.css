@@ -1,5 +1,7 @@
-h1, h2, h3, p, strong {
+h1, h2, h3, p {
   font-family: Helvetica;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 h1 {
@@ -16,42 +18,57 @@ h2 {
   font-weight: Bold;
 }
 
+h4 {
+  color: #484848;
+  font-family: Helvetica;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
 strong {
   font-weight: Bold;
+  font-family: Helvetica;
+  padding-right: 40px;
   color: Blue;
+}
+
+img {
+  padding-left: 40px
 }
 
 #brush {
   background-color: MediumSpringGreen;
+  padding-left: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 #frames {
   background-color: LightCoral;
+  padding-left: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 #paint {
   background-color: SkyBlue;
+  padding-left: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-NOT WORKING.
-
-#price {
-  colour: Blue;
+#contact {
+  background-color: #f6f6f6;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
-
-#paint, h2 {
-  background color: SkyBlue;
+#through-the-dark {
+  padding-left: 40px;
 }
